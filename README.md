@@ -1,9 +1,11 @@
+<p align="center">
 ### Hello! I'm Lucas👋 
 
 Welcome a my repo
 
 <img src="https://media.giphy.com/media/3orif6SZHGRvNulw0E/source.gif">
 
+</p>
 ---
 
 ### Skills
