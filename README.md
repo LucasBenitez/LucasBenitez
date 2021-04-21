@@ -29,4 +29,4 @@ Welcome a my repo
 
 ---
 
-- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1q_ATZsO9c488VUxj1JuU--ZYe9IEqp4-/view?usp=sharing) to get more info.
+- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1lmZ4D3DKpr6rEM5swe185HSJ8MW48o1z/view?usp=sharing) to get more info.
