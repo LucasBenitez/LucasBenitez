@@ -19,6 +19,7 @@ Welcome a my repo
 <img src="https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoColor=white" alt="Python">
 <img src="https://img.shields.io/badge/-Pug-critical?style=flat&logo=pug&logoColor=white" alt="Pug">
 <img src="https://img.shields.io/badge/-MySql-black?style=flat&logo=mysql&logoColor=white" alt="MySql">
+<img src="https://img.shields.io/badge/-PHP-blueviolet?style=flat&logo=php&color=white" alt="Firebase">
 <img src="https://img.shields.io/badge/-Firebase-Orange?style=flat&logo=firebase&logoColor=white" alt="Firebase">
 
 ---
@@ -27,6 +28,5 @@ Welcome a my repo
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasBenitez&show_icons=true&hide_border=true)
 
 ---
-### You can find in me in the web 🌍
-<img align="left" alt="Lucas Benitez | LinkedIn" width="22px" color="white" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" href:"https://www.linkedin.com/in/lucas-benitez77867116a/"/>
 
+- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1q_ATZsO9c488VUxj1JuU--ZYe9IEqp4-/view?usp=sharing) to get more info.
