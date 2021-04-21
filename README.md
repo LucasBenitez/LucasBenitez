@@ -1,10 +1,13 @@
-<p align="center">
-### Hello! I'm Lucas👋 
+<h1 align="center">
+Hello! I'm Lucas👋 
+</h1>
 
+<h1 align="center">
 Welcome a my repo
+</h1>
 
+<p align="center">
 <img src="https://media.giphy.com/media/3orif6SZHGRvNulw0E/source.gif">
-
 </p>
 ---
 
