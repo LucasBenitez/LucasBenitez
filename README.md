@@ -1,8 +1,10 @@
-### Hello!I'm Lucas👋 
+### Hello! I'm Lucas👋 
 
-##Welcome a my repo
+Welcome a my repo
 
 <img src="https://media.giphy.com/media/3orif6SZHGRvNulw0E/source.gif">
+
+---
 
 ### Skills
 
@@ -24,4 +26,8 @@
 ### Github stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasBenitez&show_icons=true&hide_border=true)
 
+---
+### You can find in me in the web 🌍
+[<img align="left" alt="Lucas Benitez | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[linkedin]: https://www.linkedin.com/in/sourav-dey/
 
