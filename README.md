@@ -23,4 +23,5 @@
 <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
 <img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
 
-https://media.giphy.com/media/xT5LMBm1q5su4Ck3tK/source.gif
+<img src="https://media.giphy.com/media/xT5LMBm1q5su4Ck3tK/giphy.gif">
+
