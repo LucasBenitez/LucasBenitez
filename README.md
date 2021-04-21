@@ -28,6 +28,5 @@ Welcome a my repo
 
 ---
 ### You can find in me in the web 🌍
-[<img align="left" alt="Lucas Benitez | LinkedIn" width="22px" color="white" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[linkedin]: https://www.linkedin.com/in/lucas-benitez77867116a/
+<a href:"https://www.linkedin.com/in/lucas-benitez77867116a/"><img align="left" alt="Lucas Benitez | LinkedIn" width="22px" color="white" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 
