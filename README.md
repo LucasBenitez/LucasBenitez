@@ -2,13 +2,14 @@
 Hello! I'm Lucas👋 
 </h1>
 
-<h1 align="center">
+<h2 align="center">
 Welcome a my repo
-</h1>
+</h2>
 
 <p align="center">
 <img src="https://media.giphy.com/media/3orif6SZHGRvNulw0E/source.gif">
 </p>
+
 ---
 
 ### Skills
