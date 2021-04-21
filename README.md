@@ -1,10 +1,4 @@
-<h1 align="center">
-Hello! I'm Lucas👋 
-</h1>
-
-<h2 align="center">
-Welcome a my repo
-</h2>
+<h1 align="center">Hello! I'm Lucas👋<span>Welcome a my repo</span></h1>
 
 <p align="center">
 <img src="https://media.giphy.com/media/3orif6SZHGRvNulw0E/source.gif">
