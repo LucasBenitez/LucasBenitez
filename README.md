@@ -19,5 +19,9 @@
 <img src="https://img.shields.io/badge/-MySql-black?style=flat&logo=mysql&logoColor=white" alt="MySql">
 <img src="https://img.shields.io/badge/-Firebase-Orange?style=flat&logo=firebase&logoColor=white" alt="Firebase">
 
+---
+
+### Github stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasBenitez&show_icons=true&hide_border=true)
 
 
